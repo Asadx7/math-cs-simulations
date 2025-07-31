@@ -37,8 +37,6 @@ A cellular automaton based on very simple rules — but it leads to complex, sur
 
 Below are some sample images from the simulations.
 
-(You’ll see them below the README once you’ve uploaded your `.png` files.)
-
 ---
 
 > Made with Colab and GitHub.
