@@ -40,3 +40,16 @@ Below are some sample images from the simulations.
 ---
 
 > Made with Colab and GitHub.
+
+
+---
+
+## 📈 Mandelbrot Set (Fractal Visualization)
+
+This simulation generates the Mandelbrot Set — a famous fractal made from complex numbers — using Python and NumPy.
+
+The result is a visual pattern with infinite detail. It's an example of how simple math can create complex beauty.
+
+🔗 [View the code notebook](mandelbrot-set/mandelbrot.ipynb)
+🖼️ [See the generated fractal image](mandelbrot-set/mandelbrot.png)
+
